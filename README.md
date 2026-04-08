@@ -103,6 +103,6 @@ Developed a real-time Indian Sign Language translation system for accessibility.
 
 ## 🌐 Live Portfolio
 
-🔗 https://your-portfolio-link.vercel.app
+🔗 https://abhienaya-sri-portfolio.vercel.app/
 
 ---
