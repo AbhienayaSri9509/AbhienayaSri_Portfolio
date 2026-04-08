@@ -1,36 +1,108 @@
-# AbhienayaSri_portfolio
+# 👩‍💻 Abhienaya Sri - Portfolio
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+🚀 **AI/ML Engineer | Full Stack Developer | Software Engineer**
 
-## Built with v0
+Welcome to my personal portfolio! This website showcases my projects, skills, and experience in building intelligent systems and scalable web applications.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+---
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_RlW4qgrNCbu1fZc7sOvjU9stk41Y)
+## 🌟 About Me
 
-## Getting Started
+I am an aspiring Software Engineer and AI/ML enthusiast currently pursuing M.Tech (Integrated) in Computer Science and Engineering at Sri Sairam Engineering College (CGPA: 8.46).
 
-First, run the development server:
+I specialize in Machine Learning, NLP, and Full Stack Development, with hands-on experience in building real-time AI-powered systems and responsive web applications. I am passionate about solving real-world problems using technology and aim to work in global software roles.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Skills
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Programming:** C, C++, Python
+* **Web Development:** React.js, Node.js, Bootstrap
+* **Databases:** MongoDB, MySQL, SQL
+* **AI/ML:** Machine Learning, Deep Learning, NLP (FinBERT), Computer Vision
+* **Tools:** Git, Postman, Google Colab
+* **AI Tools:** ChatGPT, Gemini, Cursor AI, Builder.io, Bolt AI
 
-## Learn More
+---
 
-To learn more, take a look at the following resources:
+## 💻 Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+### 🧠 Fear & Greed Sentiment Engine
 
-<a href="https://v0.app/chat/api/kiro/clone/AbhienayaSri9509/AbhienayaSri_portfolio" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
-# AbhienayaSri_Portfolio
+Developed a real-time financial sentiment analysis system using NLP (FinBERT) to generate actionable buy/sell signals.
+
+* Real-time data from Twitter, Reddit, and News APIs
+* Sentiment classification using FinBERT
+* Backend developed using FastAPI
+* Database integration with MongoDB
+
+---
+
+### 🔥 Forest Fire Detection System
+
+Built a deep learning-based model to detect forest fires using image classification techniques.
+
+* CNN-based model with ~90% accuracy
+* Image preprocessing and augmentation
+* Real-time detection pipeline using OpenCV
+* Implemented using TensorFlow/PyTorch
+
+---
+
+### 🤟 AI-Powered ISL Translation System
+
+Developed a real-time Indian Sign Language translation system for accessibility.
+
+* Gesture recognition using computer vision
+* Text-to-Speech and Speech-to-Text integration
+* Emotion detection via facial expressions
+* Built using OpenCV, MediaPipe, and NLP
+
+🔗 Live Demo: https://apple-abhienaya-sri-edtech-gd-go-c.vercel.app/
+
+---
+
+## 💼 Experience
+
+### Frontend Intern — E-tailed Digital Service Pvt Ltd (Jun 2025 – Sep 2025)
+
+* Developed responsive UI using HTML, CSS, and JavaScript
+* Improved page load speed by 25%
+
+### UI/UX & AI Intern — InternEzy & IBM SkillsBuild
+
+* Designed UI using Figma
+* Learned AI fundamentals, prompt engineering, and cloud basics
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Won 4 Hackathons (Ideathon, Innovathon, UBA Xtard)
+* 🌍 Top 30 ChangeMakers (1M1B - IBM)
+
+---
+
+## 📜 Certifications
+
+* HarvardX CS
+* Cisco: Introduction to Data Science
+* Oracle: Java
+* Udemy: Web Development & Machine Learning
+
+---
+
+## 📬 Contact Me
+
+* 📧 Email: [abhienayasris@gmail.com](mailto:abhienayasris@gmail.com)
+* 📱 Phone: +91 7305219509
+* 💼 LinkedIn: https://www.linkedin.com/in/abhienaya-sri-572020254/
+* 💻 GitHub: https://github.com/AbhienayaSri9509
+
+---
+
+## 🌐 Live Portfolio
+
+🔗 https://your-portfolio-link.vercel.app
+
+---
